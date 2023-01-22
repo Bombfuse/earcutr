@@ -2,11 +2,6 @@
 name = "emd_earcutr"
 version = "0.1.0"
 authors = ["don bright <hmbright@fastmail.com>"]
-edition = "2021"
-description = "A fork of the https://github.com/donbright/earcutr repo."
-repository = "https://github.com/Bombfuse/emerald"
-license = "ISC"
-resolver = "2"  
 
 [dev-dependencies]
 serde = "1.0.80"
